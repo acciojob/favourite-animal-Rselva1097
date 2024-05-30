@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+.img{
+	width:250px;
+	object-fit:contain;
+	object-fit:center;
+}
+.img:hover{
+   box-shadow: 10px 10px 5px 12px lightblue;	
+}
